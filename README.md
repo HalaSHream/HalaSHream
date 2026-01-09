@@ -1,5 +1,5 @@
-                                                                  # Hala Shream
-                                      Software Engineering Student | Front-end Developer | Software Tester | UI/UX Designer
+# Hala Shream
+Software Engineering Student | Front-end Developer | Software Tester | UI/UX Designer
 
 ## About Me
 I am a Software Engineering student at An-Najah National University with a strong interest in front-end development, software testing, and UI/UX design.
