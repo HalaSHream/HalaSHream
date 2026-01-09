@@ -8,22 +8,18 @@ I enjoy building user-friendly interfaces and ensuring software quality through 
 I am passionate about continuous learning, teamwork, and improving my technical and problem-solving skills.
 My goal is to grow as a well-rounded software engineer and contribute to developing reliable and impactful applications.
 
-## Skills
-- Manual Testing
-- Test Case Writing
-- Bug Reporting
-- Automation Testing (Playwright)
-- GitHub, Jira, Postman
+## 💡 Skills
 
-## Training & Practice
-- UI Automation training using Playwright
-- Automated test scenarios for demo and training applications
-- Experience with Agile / Scrum methodology
+### 💻 Programming Languages
+C++, Java, PHP, TypeScript, JavaScript, HTML5, CSS3
 
-## Goals
-- Gain real-world QA experience
-- Grow as a QA Automation Engineer
-- Join a professional software testing team
+### 🛠 Frameworks & Tools
+Bootstrap, Angular, Laravel, Git, GitHub, Playwright, JUnit, Figma
+
+### 🗄 Databases
+MySQL
+
+
 ## Contact
 - 📧 Email: shreamhala004@gmail.com  
 - 🔗 GitHub: [https://github.com/HalaSHream](https://github.com/HalaSHream)  
