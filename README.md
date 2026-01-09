@@ -25,6 +25,6 @@ My goal is to grow as a well-rounded software engineer and contribute to develop
 - Grow as a QA Automation Engineer
 - Join a professional software testing team
 ## Contact
-- 📧 Email: your-email@email.com  
+- 📧 Email: shreamhala004@gmail.com  
 - 🔗 GitHub: [https://github.com/HalaSHream](https://github.com/HalaSHream)  
-- 💼 LinkedIn: [https://linkedin.com/in/your-name](https://linkedin.com/in/your-name)
+- 💼 LinkedIn: [https://linkedin.com/in/hala-shream-halashream/](https://linkedin.com/in/hala-shream-halashream/)
