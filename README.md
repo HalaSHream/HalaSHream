@@ -24,7 +24,7 @@ My goal is to grow as a well-rounded software engineer and contribute to develop
 - Gain real-world QA experience
 - Grow as a QA Automation Engineer
 - Join a professional software testing team
-
 ## Contact
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-name
+- 📧 Email: your-email@email.com  
+- 🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)  
+- 💼 LinkedIn: [https://linkedin.com/in/your-name](https://linkedin.com/in/your-name)
