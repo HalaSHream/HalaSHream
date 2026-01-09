@@ -1,9 +1,12 @@
 # Hala Shream
-QA Automation Engineer
+Software Engineering Student | Front-end Developer | Software Tester | UI/UX Designer
 
 ## About Me
-I am a motivated QA Automation Engineer with hands-on experience in manual and automation testing.
-I have worked with Playwright and TypeScript and enjoy improving software quality.
+I am a Software Engineering student at An-Najah National University with a strong interest in front-end development, software testing, and UI/UX design.
+I enjoy building user-friendly interfaces and ensuring software quality through effective testing practices.
+
+I am passionate about continuous learning, teamwork, and improving my technical and problem-solving skills.
+My goal is to grow as a well-rounded software engineer and contribute to developing reliable and impactful applications.
 
 ## Skills
 - Manual Testing
