@@ -26,5 +26,5 @@ My goal is to grow as a well-rounded software engineer and contribute to develop
 - Join a professional software testing team
 ## Contact
 - 📧 Email: your-email@email.com  
-- 🔗 GitHub: [https://github.com/your-username](https://github.com/HalaSHream)  
+- 🔗 GitHub: [https://github.com/HalaSHream](https://github.com/HalaSHream)  
 - 💼 LinkedIn: [https://linkedin.com/in/your-name](https://linkedin.com/in/your-name)
