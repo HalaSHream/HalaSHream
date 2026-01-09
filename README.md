@@ -19,7 +19,6 @@ Bootstrap, Angular, Laravel, Git, GitHub, Playwright, JUnit, Figma
 ### 🗄 Databases
 MySQL
 
-
 ## 📂 Projects
 
 - **Technician Hiring Platform** 
@@ -31,6 +30,14 @@ MySQL
   Full-Stack Desktop Application  
   Developed a system to help real estate agents list properties, manage client interactions, and track transactions efficiently.  
   Backend: Java | Database: SQL | Frontend: Scene Builder
+
+- **Medication & Clinic Appointment App (UI/UX Design)**  
+  Designed a mobile application in **Figma** to help users:  
+  • Get reminders for taking medications  
+  • Book appointments at clinics  
+  • Consult doctors online  
+  Focused on intuitive interfaces and seamless user experience.
+
 
 
 
