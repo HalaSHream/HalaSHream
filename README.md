@@ -1,5 +1,5 @@
-# Hala Shream
-Software Engineering Student | Front-end Developer | Software Tester | UI/UX Designer
+                                                                  # Hala Shream
+                                      Software Engineering Student | Front-end Developer | Software Tester | UI/UX Designer
 
 ## About Me
 I am a Software Engineering student at An-Najah National University with a strong interest in front-end development, software testing, and UI/UX design.
@@ -18,6 +18,24 @@ Bootstrap, Angular, Laravel, Git, GitHub, Playwright, JUnit, Figma
 
 ### 🗄 Databases
 MySQL
+
+
+## 📂 Projects
+
+- **Technician Hiring Platform** 
+  Full-Stack Web Application  
+  Developed a web application to help craftsmen and managers display jobs, manage customer interactions, and track tasks seamlessly.  
+  Backend: Laravel | Frontend: Angular
+
+- **Real Estate Management System** 
+  Full-Stack Desktop Application  
+  Developed a system to help real estate agents list properties, manage client interactions, and track transactions efficiently.  
+  Backend: Java | Database: SQL | Frontend: Scene Builder
+
+
+
+
+
 
 
 ## Contact
