@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hala Shream
+QA Automation Engineer
 
-<!--
-**HalaSHream/HalaSHream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a motivated QA Automation Engineer with hands-on experience in manual and automation testing.
+I have worked with Playwright and TypeScript and enjoy improving software quality.
 
-Here are some ideas to get you started:
+## Skills
+- Manual Testing
+- Test Case Writing
+- Bug Reporting
+- Automation Testing (Playwright)
+- GitHub, Jira, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Training & Practice
+- UI Automation training using Playwright
+- Automated test scenarios for demo and training applications
+- Experience with Agile / Scrum methodology
+
+## Goals
+- Gain real-world QA experience
+- Grow as a QA Automation Engineer
+- Join a professional software testing team
+
+## Contact
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-name
