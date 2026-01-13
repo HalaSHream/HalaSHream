@@ -1,51 +1,48 @@
-# Hala Shream
-Software Engineering Student | Front-end Developer | Software Tester | UI/UX Designer
+<h1 align="center">✨ Hi, I'm Hala Shream ✨</h1>
 
-## About Me
-I am a Software Engineering student at An-Najah National University with a strong interest in front-end development, software testing, and UI/UX design.
-I enjoy building user-friendly interfaces and ensuring software quality through effective testing practices.
+<p align="center">
+  <b>Software Engineering Student</b> <br>
+  Front-end Developer • Software Tester • UI/UX Designer
+</p>
 
-I am passionate about continuous learning, teamwork, and improving my technical and problem-solving skills.
-My goal is to grow as a well-rounded software engineer and contribute to developing reliable and impactful applications.
+<p align="center">
+  <a href="https://github.com/HalaSHream">
+    <img src="https://img.shields.io/github/followers/HalaSHream?label=Followers&style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/hala-shream-halashream/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:shreamhala004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
-## 💡 Skills
+---
+
+## 👩‍💻 About Me
+
+🎓 Software Engineering student at **An-Najah National University**  
+💡 Passionate about building **user-friendly interfaces** and ensuring **software quality**  
+🎨 Interested in **UI/UX design**, **front-end development**, and **software testing**
+
+✨ I enjoy learning new technologies, working in teams, and turning ideas into reliable and impactful applications.
+
+---
+
+## 🚀 Skills & Technologies
 
 ### 💻 Programming Languages
-C++, Java, PHP, TypeScript, JavaScript, HTML5, CSS3
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+
+---
 
 ### 🛠 Frameworks & Tools
-Bootstrap, Angular, Laravel, Git, GitHub, Playwright, JUnit, Figma
-
-### 🗄 Databases
-MySQL
-
-## 📂 Projects
-
-- **Technician Hiring Platform** 
-  Full-Stack Web Application  
-  Developed a web application to help craftsmen and managers display jobs, manage customer interactions, and track tasks seamlessly.  
-  Backend: Laravel | Frontend: Angular
-
-- **Real Estate Management System** 
-  Full-Stack Desktop Application  
-  Developed a system to help real estate agents list properties, manage client interactions, and track transactions efficiently.  
-  Backend: Java | Database: SQL | Frontend: Scene Builder
-
-- **Medication & Clinic Appointment App (UI/UX Design)**  
-  Designed a mobile application in **Figma** to help users:  
-  • Get reminders for taking medications  
-  • Book appointments at clinics  
-  • Consult doctors online  
-  Focused on intuitive interfaces and seamless user experience.
-
-
-
-
-
-
-
-
-## Contact
-- 📧 Email: shreamhala004@gmail.com  
-- 🔗 GitHub: [https://github.com/HalaSHream](https://github.com/HalaSHream)  
-- 💼 LinkedIn: [https://linkedin.com/in/hala-shream-halashream/](https://linkedin.com/in/hala-shream-halashream/)
+![Angular](https://img.shields.io/badge/Angular-red?style=flat&logo=angular)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bo)
