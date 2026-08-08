@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HalaSHream">
-    <img src="https://img.shields.io/github/followers/HalaSHream?label=Followers&style=for-the-badge">
-  </a>
   <a href="https://linkedin.com/in/hala-shream-halashream/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
